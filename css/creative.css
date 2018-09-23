@@ -61,6 +61,12 @@ h6 {
   background-color: #212529 !important;
 }
 
+.descricao {
+  font-size: 1.2rem;
+  font-style: oblique;
+  font-weight: 700;
+}
+
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }

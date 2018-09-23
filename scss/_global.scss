@@ -46,6 +46,13 @@ h6 {
 .bg-dark {
   background-color: $gray-900 !important;
 }
+.descricao{
+  font-size: 1.2rem;
+font-style: oblique;
+font-weight: 700;
+margin-top: 0.5rem;
+}
+
 
 .text-faded {
   color: fade-out($white, .3);
