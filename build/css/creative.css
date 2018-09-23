@@ -41,10 +41,6 @@ h6 {
   background-color: #F05F40 !important;
 }
 
-.bg-receitas {
-  background-color: #ff9a15 !important;
-}
-
 .bg-dark {
   background-color: #212529 !important;
 }
@@ -268,7 +264,7 @@ header.masthead p {
 }
 
 .color-receitas {
-  color: #ff9a15 !important;
+  color: #F05F40 !important;
 }
 
 .color-controle-financeiro {

@@ -1,0 +1,23 @@
+{
+  "name": "virtus_site",
+  "version": "1.0.0",
+  "description": "site oficial do virtus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass ./scss/creative.scss ./css/creative.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/rayfran.rocha.lima/virtus_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/rayfran.rocha.lima/virtus_site/issues"
+  },
+  "homepage": "https://gitlab.com/rayfran.rocha.lima/virtus_site#readme",
+  "devDependencies": {
+    "sass": "^1.14.0"
+  }
+}
