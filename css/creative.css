@@ -49,6 +49,14 @@ h6 {
   background-color: #14CC4E !important;
 }
 
+.bg-padrao {
+  background-color: #7C00C2 !important;
+}
+
+.bg-decisao {
+  background-color: #636363 !important;
+}
+
 .bg-dark {
   background-color: #212529 !important;
 }
@@ -280,7 +288,7 @@ header.masthead p {
 }
 
 .color-padrao {
-  color: #6D14CC !important;
+  color: #7C00C2 !important;
 }
 
 .color-decisao {
