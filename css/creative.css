@@ -45,6 +45,10 @@ h6 {
   background-color: #ff9a15 !important;
 }
 
+.bg-ctrl-financeiro {
+  background-color: #14CC4E !important;
+}
+
 .bg-dark {
   background-color: #212529 !important;
 }
@@ -53,7 +57,7 @@ h6 {
   color: rgba(255, 255, 255, 0.7);
 }
 
-section {
+section:not(#about) {
   padding: 8rem 0;
 }
 

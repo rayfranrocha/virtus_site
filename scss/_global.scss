@@ -40,6 +40,7 @@ h6 {
   background-color: $primary !important;
 }
 .bg-receitas{background-color: $cor-receitas !important;}
+.bg-ctrl-financeiro{background-color: $cor-ctrl-fin !important;}
 .bg-dark {
   background-color: $gray-900 !important;
 }
@@ -48,7 +49,7 @@ h6 {
   color: fade-out($white, .3);
 }
 
-section {
+section:not(#about){
   padding: 8rem 0;
 }
 
